@@ -1,0 +1,43 @@
+{
+  "student": [
+    {
+      "id": "bab3",
+      "studentname": "krina",
+      "Rollnumber": "9",
+      "class": "10"
+    },
+    {
+      "id": "7d24",
+      "studentname": "foram",
+      "Rollnumber": "63",
+      "class": "89"
+    },
+    {
+      "id": "2c23",
+      "studentname": "palak",
+      "Rollnumber": "98",
+      "class": "5"
+    },
+    {
+      "id": "80f0",
+      "studentname": "Dhvani",
+      "Rollnumber": "96",
+      "class": "2"
+    },
+    {
+      "id": "40f9",
+      "studentname": "Harsh",
+      "Rollnumber": "9",
+      "class": "8"
+    }
+  ],
+  "user": [
+    {
+      "id": "1a9b",
+      "username": "foram",
+      "email": "forampaneliya1204@gmail.com",
+      "password": "123",
+      "cpass": "123"
+    }
+  ]
+}
